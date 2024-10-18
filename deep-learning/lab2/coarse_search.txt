@@ -1,0 +1,9 @@
+llambda 0.01 l_min -5 l_max -1 n_s 450.0 num_cycles 2 
+Llambda 1e-05 Test accuracy 0.4804 
+Llambda 3.727593720314938e-05 Test accuracy 0.5092 
+Llambda 0.00013894954943731373 Test accuracy 0.518 
+Llambda 0.0005179474679231213 Test accuracy 0.518 
+Llambda 0.0019306977288832496 Test accuracy 0.5192 
+Llambda 0.007196856730011514 Test accuracy 0.517 
+Llambda 0.026826957952797246 Test accuracy 0.511 
+Llambda 0.1 Test accuracy 0.5128 

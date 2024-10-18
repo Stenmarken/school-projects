@@ -1,0 +1,22 @@
+d: 3072 # Number of features
+K: 10 # Number of classes
+m: 50 # Number of nodes
+
+alpha: 0.9
+initialization_technique: xavier
+debug_mode: false
+num_layers: 3
+nodes: [50, 50, 50]
+llambda: 0
+n_epochs: 40
+num_batches: 100
+eta: 0.001
+num_images: 10000
+batch_size: 100
+n_s: 800
+eta_min: 0.00001
+eta_max: 0.1
+num_cycles: 3
+n_s: 500
+printings_per_cycle: 10
+num_cycles: 3

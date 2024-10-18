@@ -1,0 +1,21 @@
+llambda 0.01 l_min -5 l_max -1 n_s 450.0 num_cycles 3 
+Llambda 0.0032161610999591078 Test accuracy 0.5146 
+Llambda 0.00032193448722061933 Test accuracy 0.5196 
+Llambda 0.004018416298949662 Test accuracy 0.5206 
+Llambda 0.003211414590162591 Test accuracy 0.5204 
+Llambda 0.0031058664782727965 Test accuracy 0.5146 
+Llambda 0.00247042205459425 Test accuracy 0.5146 
+Llambda 0.001583340613107704 Test accuracy 0.5112 
+Llambda 0.0045097065495647865 Test accuracy 0.5112 
+Llambda 0.0022538844224573493 Test accuracy 0.5076 
+Llambda 0.0020221916903588833 Test accuracy 0.507 
+Llambda 0.004522854487837295 Test accuracy 0.5052 
+Llambda 0.003873585336179298 Test accuracy 0.4992 
+Llambda 0.0010888023120486036 Test accuracy 0.4972 
+Llambda 0.0037637362593046326 Test accuracy 0.4924 
+Llambda 0.0014407090015708178 Test accuracy 0.4918 
+Llambda 0.005681772128369914 Test accuracy 0.4916 
+Llambda 0.006166227899390515 Test accuracy 0.4908 
+Llambda 0.003627227272899505 Test accuracy 0.4894 
+Llambda 0.006113901935739348 Test accuracy 0.4818 
+Llambda 0.0007010799335198227 Test accuracy 0.4802 
